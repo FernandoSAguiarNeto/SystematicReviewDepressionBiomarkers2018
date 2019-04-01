@@ -21,6 +21,6 @@ _____
 
 **Table 2: Data extraction form**
 
-**Information:** Data extraction form used to organize the reading. Was used parsifal (https://parsif.al/) in order to conduct the systematic review. This spreadsheet also has some charts.
+**Information:** Data extraction form used to organize the reading using [Parsifal](https://parsif.al/) to aid the systematic review. This spreadsheet also has some charts.
 
 **Link:** [DataExtractionForm](https://docs.google.com/spreadsheets/d/1hUxpNRaoT0e368EEm3qsoqy3Ki9MbLoYp-87sYY13pg/edit?usp=sharing)
