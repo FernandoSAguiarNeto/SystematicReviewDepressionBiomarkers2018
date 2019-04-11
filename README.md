@@ -6,15 +6,14 @@
 
 ____
 
-**BibTex with accepted articles:**
-[BibTex](https://docs.google.com/document/d/10IfhmItm-2rXunVZJKfR8RjsPVlZh-52Xlwx6MjF_g4/edit?usp=sharing)
-
 **Table 1: Accepted Articles References**
 
 **Information:** Reference keys matching the article, title and year of accepted and reported articles.
 
 **Link:** [AcceptedReferencesPLACEHOLDER](https://drive.google.com/open?id=1Bf4uUGv7IJJemhdvClgkMOx_o_QP8rZc)
 
+**BibTex with accepted articles:**
+[BibTex](https://docs.google.com/document/d/10IfhmItm-2rXunVZJKfR8RjsPVlZh-52Xlwx6MjF_g4/edit?usp=sharing)
 _____
 
 **Table 2: Accepted Articles Summary**
