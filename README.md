@@ -1,6 +1,6 @@
 # Depression Biomarkers Using EEG: A Review
 
-## Supplementary material for systematic review
+## Supplementary material for systematic mapping
 
 **Disclaimer:** Please cite the original article if any of the material is used.
 
